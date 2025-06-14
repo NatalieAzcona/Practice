@@ -1,0 +1,1 @@
+import './LogoBar.scss';

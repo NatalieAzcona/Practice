@@ -1,0 +1,42 @@
+$black: #000000;
+$white: #ffffff;
+$gray: #666;
+
+
+$background-base: $white;
+$background-secondary: #cccccc;
+$background-tertiary: #b2b2b2f0;
+$text-primary: $black;
+$text-secondary: $gray;
+$text-tertiary: $white;
+$action-primary: #e63946; 
+$action-secondary: #0077cc;
+
+$border-1: #a0a6e6;        
+$border-2: #e18c98;      
+$border-3: #a4f0b3; 
+
+// Sizes //
+$size-small: 8px;
+$size-medium: 12px;
+
+
+// Border Radius //
+$border-radius-button: 30px;
+
+
+// Button //
+$btn-primary-bg: #d32f2f;
+$btn-primary-color: $white;
+$btn-primary-hover-bg: #b71c1c;
+
+$btn-secondary-bg: $black;
+$btn-secondary-color: $white;
+$btn-secondary-hover-bg: #656565;
+
+$btn-height: 36px;
+$btn-padding-horizontal: 16px;
+$btn-border-radius: $border-radius-button;
+
+$btn-font-size: 14px;
+$btn-font-weight: 500;
