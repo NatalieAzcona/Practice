@@ -1,3 +1,3 @@
-@forward 'variables';
-@forward 'mixin';
-@use 'main';
+import { Header } from "./components/Header/Header";
+
+Header();
